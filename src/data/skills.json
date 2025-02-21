@@ -29,6 +29,22 @@
   },
   {
     "title": "React Native",
-    "imageSrc": "skills/native.png"
+    "imageSrc": "skills/reactnative.png"
+  },
+  {
+    "title": "SpringBoot",
+    "imageSrc": "skills/spring.png"
+  },  {
+    "title": "AngularJS",
+    "imageSrc": "skills/angular.png"
+  },  {
+    "title": "Azure",
+    "imageSrc": "skills/azure.png"
+  },  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },  {
+    "title": "GitHub",
+    "imageSrc": "skills/git.png"
   }
 ]
