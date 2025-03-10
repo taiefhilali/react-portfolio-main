@@ -25,17 +25,19 @@
   font-family: var(--font-roboto);
   background: linear-gradient(
     90deg,
-    rgb(17, 17, 17) 70%,
-    rgba(0, 0, 0, 0.678) 120%
+    rgb(121, 147, 212) 70%,
+    rgba(95, 166, 243, 0.678) 120%
   );
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
 
 .description {
-  font-size: 30px;
-  font-family: var(--font-roboto);
-  margin-bottom: 52px;
+  text-align: justify; /* Justify the text to stretch the lines */
+  line-height: 1.5; /* Optional: Adjust line height for better readability */
+  margin: 10; /* Optional: Remove any default margin */
+  width: 90%; /* Ensure it takes full width of the container */
+  font-size: 26px;
 }
 
 .contactBtn {
@@ -57,8 +59,13 @@
   animation-duration: 3s;
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
+  border-radius: 50%; /* Optional: If you want the image to be circular */
+  box-shadow: 0 0 15px 5px rgba(43, 101, 226, 0.8); /* Neon effect using rgba for color and opacity */
+  transition: box-shadow 0.3s ease-in-out; /* Smooth transition for hover effect */
 }
-
+.heroImg:hover {
+  box-shadow: 0 0 25px 10px rgb(88, 146, 207); /* Neon effect intensifies on hover */
+}
 @keyframes floating {
   0% {
     transform: translate(0, 0px);
