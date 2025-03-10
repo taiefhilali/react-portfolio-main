@@ -9,8 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Taief Hilali</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 2 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+        I'm a Software Engineer and Full-Stack Developer with 1 year of experience building dynamic and scalable web applications using React.js and Node.js(MERN STACK). I specialize in crafting intuitive user interfaces, optimizing backend performance, and creating seamless integrations. Let’s connect and bring great ideas to life! 🚀
         </p>
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
           Contact Me
