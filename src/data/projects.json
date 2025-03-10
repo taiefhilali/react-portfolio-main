@@ -4,23 +4,40 @@
     "imageSrc": "projects/project.png",
     "description": "QuickBite redefines food ordering by merging cutting-edge technology with user-focused design, setting a new standard for adaptability, security, and customer satisfaction in the industry.",
     "skills": ["React", "Express", "Node", "MongoDB","ReactNative"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "video": "https://drive.google.com/file/d/1UyDBC5tl0MWi1jaeZ_VRa6lpT-HFsvdh/view?usp=sharing",
+    "sourceMobile": "https://github.com/taiefhilali/QuickBiteMobile.git",
+    "sourceWeb": "https://github.com/taiefhilali/Food-Ordering.git"
+
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Sou9ek",
+    "imageSrc": "projects/sou9ekbg.png",
+    "description": "Sou9ek is a powerful mobile and web application designed to streamline product and stock management for large depots. Inspired by Kamioun, Sou9ek provides a way to track inventory levels, manage orders, and optimize supply chain operations efficiently.",
+    "skills": ["Electron", "Express", "Node", "ReactNative","PostgreSQL"],
+    "demo": [
+      "projects/register.png",
+      "projects/login.png",
+      "projects/homescreen.png",
+      "projects/products.png",
+      "projects/cart.png",
+      "projects/profile.png"
+    ],
+    "sourceMobile": "https://github.com/taiefhilali/MobileApp_Products-Management.git",
+    "sourceWeb": "https://github.com/taiefhilali/Product-Management-Desktop-App.git"
+
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "title": "TheShelf",
+    "imageSrc": "projects/THESHELF.png",
+    "description": "The Shelf is an innovative online library app that allows users to rent or buy old books with ease. Aimed at book lovers and collectors, the app provides a platform where users can discover rare, out-of-print, and vintage books that are hard to find in regular bookstores. Whether you're looking to rent a book for a limited time or add it to your personal collection",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/marsit-saif-eddine/The-Shelf.git"
+  },
+  {
+    "title": "ArTech",
+    "imageSrc": "projects/artech.png",
+    "description": "Artech is a dynamic online gallery platform designed to showcase and promote artwork from exhibitions and art galleries around the world. It provides artists, curators, and art enthusiasts with a digital space to view, buy, and sell art pieces, allowing the art world to thrive in a virtual environment. Whether it's paintings, sculptures, photography, or digital art,",
+    "skills": [ "Laravel"],
+    "source": "https://github.com/taiefhilali/laravel-artech-5TWIN5.git"
   }
 ]
