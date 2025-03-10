@@ -1,0 +1,8 @@
+{
+    "build": {
+      "env": {
+        "ESBUILD_BINARY_PATH": "node_modules/esbuild/bin/esbuild"
+      }
+    }
+  }
+  
